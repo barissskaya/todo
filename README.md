@@ -8,5 +8,5 @@ php artisan taskprovider:fetch
 ```
 ## Ekran Görüntüleri
 
- <img src="ui-ss/index.png"/>
+ <img src="ui-ss/index.PNG"/>
  <img src="ui-ss/dev-accordion.png"/>
